@@ -1,0 +1,24 @@
+created_at,slug,name,updated_at,checksum,url,id
+1588809600,moba,MOBA,1588809600,0f17b3a1-6d97-4c02-0997-850adf4dc624,https://www.igdb.com/genres/moba,36
+1588809600,card-and-board-game,Card & Board Game,1588809600,137bcfbe-be08-0b36-b66e-1bfef14ca49a,https://www.igdb.com/genres/card-and-board-game,35
+1571788800,visual-novel,Visual Novel,1571788800,137fe5c7-e4bc-1c30-4c7c-54596b47448f,https://www.igdb.com/genres/visual-novel,34
+1380931200,arcade,Arcade,1380931200,388cec36-d099-f4a1-31c3-f938fae9067b,https://www.igdb.com/genres/arcade,33
+1341360000,indie,Indie,1341360000,2522259f-2454-ec02-5dc0-84373e0508ed,https://www.igdb.com/genres/indie,32
+1323561600,adventure,Adventure,1323561600,a6d85192-8d11-bad3-cc5c-dd89e2f94a47,https://www.igdb.com/genres/adventure,31
+1297555200,point-and-click,Point-and-click,1323302400,ef2ff68a-f7bd-d2d0-76cb-c830bd6e3191,https://www.igdb.com/genres/point-and-click,2
+1320192000,pinball,Pinball,1323216000,b5657d72-ee36-0851-58df-e8d2413283f8,https://www.igdb.com/genres/pinball,30
+1301961600,quiz-trivia,Quiz/Trivia,1323216000,256a99dd-dd06-bc0c-d53b-dc3098da4d49,https://www.igdb.com/genres/quiz-trivia,26
+1301616000,hack-and-slash-beat-em-up,Hack and slash/Beat 'em up,1323216000,4bd95a5d-8fa1-1aee-4ea9-224b4b1312f7,https://www.igdb.com/genres/hack-and-slash-beat-em-up,25
+1300924800,tactical,Tactical,1323216000,6132b15f-289e-60ea-5957-7c78b97053a2,https://www.igdb.com/genres/tactical,24
+1297641600,turn-based-strategy-tbs,Turn-based strategy (TBS),1323216000,af5d3ecd-2ebd-358b-70df-e9204b9761be,https://www.igdb.com/genres/turn-based-strategy-tbs,16
+1297555200,strategy,Strategy,1323216000,d7863f95-0f2c-0f2d-c1e9-29d06eaf3396,https://www.igdb.com/genres/strategy,15
+1297555200,sport,Sport,1323216000,e598c458-3e21-7a14-50a5-ea53733ab22f,https://www.igdb.com/genres/sport,14
+1297555200,simulator,Simulator,1323216000,9779772a-f08f-9e8e-bd26-70c9eecc34e8,https://www.igdb.com/genres/simulator,13
+1297555200,role-playing-rpg,Role-playing (RPG),1323216000,42dea3b2-7fe2-e734-91cd-f80ce62a14c3,https://www.igdb.com/genres/role-playing-rpg,12
+1297555200,real-time-strategy-rts,Real Time Strategy (RTS),1323216000,aaa36cbc-2258-8653-a461-1358df8ce445,https://www.igdb.com/genres/real-time-strategy-rts,11
+1297555200,racing,Racing,1323216000,73c2653f-54d8-c1bd-d523-dd57fb753194,https://www.igdb.com/genres/racing,10
+1297555200,puzzle,Puzzle,1323216000,616de9c3-8a00-0232-9df9-00014cfac51b,https://www.igdb.com/genres/puzzle,9
+1297555200,platform,Platform,1323216000,697fc5a4-b96f-a803-288a-498bd5dd1de1,https://www.igdb.com/genres/platform,8
+1297555200,music,Music,1323216000,22d44a0d-89c7-580f-eef2-e06f178fdd47,https://www.igdb.com/genres/music,7
+1297555200,shooter,Shooter,1323216000,bb15fd3f-0f46-e5f3-2b40-d046cf9bd2ef,https://www.igdb.com/genres/shooter,5
+1297555200,fighting,Fighting,1323216000,2ccc6572-bdde-6ed4-8843-25447ea40782,https://www.igdb.com/genres/fighting,4

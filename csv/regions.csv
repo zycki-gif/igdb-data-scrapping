@@ -1,0 +1,4 @@
+name,created_at,updated_at,checksum,category,identifier,id
+Europe,1654688003,1654688164,6302d19c-7e50-64c5-531f-0bc406ca90ab,continent,EU,4
+Japan,1654688003,1654688003,30a70790-d254-52df-e438-99ee4529669d,locale,ja-JP,3
+Korea,1654688003,1654688003,2dac4ca8-c65b-df2a-821b-fcd7313e0448,locale,ko-KR,2
